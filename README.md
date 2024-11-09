@@ -48,7 +48,7 @@ https://academy.patika.dev/tr/courses/herkes-icin-temel-dersler
 https://www.youtube.com/watch?v=yTZKeJ7Okkc
 
 <h4>Temel Algoritmalara giriş </h4>
-ttps://academy.patika.dev/tr/courses/veri-yapilari-ve-algoritmalar
+https://academy.patika.dev/tr/courses/veri-yapilari-ve-algoritmalar
 
 <h4>Yatarken bir bak</h4>
 https://www.youtube.com/watch?v=p9tsk9dger4 
